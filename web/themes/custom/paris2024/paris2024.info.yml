@@ -1,0 +1,13 @@
+name: paris2024
+type: theme
+description: 'Platforme EDU'
+package: paris2024
+core: 8.x
+libraries:
+  - paris2024/global-styling
+ 
+base theme: false
+
+regions:
+  content: Content
+  primary_menu: primary_menu
